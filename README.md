@@ -29,6 +29,10 @@ SourceSprout는 오픈소스 프로젝트를 위한 크라우드펀딩 플랫폼
 - 데이터베이스: MySQL
 - 프론트엔드: -
 
+## ERD
+![source-sprout](https://github.com/user-attachments/assets/2559891a-7596-4d64-8e65-9de721a187a9)
+
+
 ## 설치 및 실행 방법
 
 (개발 진행 후 작성 예정)
